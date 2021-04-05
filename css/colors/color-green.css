@@ -1,0 +1,94 @@
+span {
+	/*color: #2ecc71;*/
+	color:#fff;
+}
+.navbar-custom .navbar-toggle {
+    background: 6e1257;
+}
+.navbar-custom .nav > li > a:focus,
+.navbar-custom .nav > li > a:hover,
+.navbar-custom .nav > li.active > a,
+.navbar-custom .nav .open > a,
+.navbar-custom .nav .open > a:focus,
+.navbar-custom .nav .open > a:hover {
+    background-color: #6e1257;
+    color: #fff;
+}
+.section-title-left::after , .section-title::after , .single-pricing-table .pricing-title h2::after {
+  background: #6e1257 none repeat scroll 0 0;
+
+}
+.about-us-right .media:hover  .fa::before {
+    background-color: #6e1257;
+}
+.single-service .media .fa::before {
+  background: #6e1257 none repeat scroll 0 0;
+}
+.single-service .media:hover {
+    background-color: #6e1257;
+}
+.single-service .media:hover .fa::before {
+    color: rgb#6e1257(129, 122, 129);
+}
+.testimonial-body::before {
+  color: #6e1257;
+}
+.client-name::before {
+  background: #6e1257 none repeat scroll 0 0;
+}
+#testimonial-carousel .owl-controls .owl-buttons .owl-prev:hover , #testimonial-carousel .owl-controls .owl-buttons .owl-next:hover {
+	background: #6e1257;
+	border: 1px solid transparent;
+	color: #fff;
+}
+.portfolio-filter-nav ul li:hover {
+    background: #6e1257 none repeat scroll 0 0;
+}
+.portfolio-filter-nav ul li.active {
+    background: #6e1257 none repeat scroll 0 0;
+}
+.single-pricing-table:hover .price , .single-pricing-table:hover .pricing-buttons button.buy-btn , .table-active .price {
+    background-color: #6e1257;
+}
+ .table-active .pricing-buttons button.buy-btn {
+    background-color: #6e1257 !important;
+    color: #fff !important;
+    border: 1px solid transparent !important;
+}
+.our-partners-section {
+	background-color: #6e1257;
+}
+.blog-post-details .post-heading em a {
+	color: #6e1257 !important;
+}
+.blog-post-details button.read-more-btn {
+    background: #6e1257 none repeat scroll 0 0;
+}
+.form-control:focus {
+    border-color: #6e1257;
+}
+.social-icons a .fa:hover {
+    background: #6e1257;
+}
+.portfolio-button button.portfolio-btn {
+    border: 2px solid #6e1257;
+    color: #6e1257;
+}
+.portfolio-button button.portfolio-btn:hover {
+    background-color: #6e1257;
+}
+.thumbnails:hover span.portfolio-overlay {
+    background-color: #6e1257;
+}
+button.sl-prev .fa, button.sl-next .fa {
+    color: #6e1257;
+}
+.contact-form-section button.btn-contact {
+	background-color: #6e1257;
+}
+#main-slide .carousel-control i {
+    color: #6e1257;
+}
+#main-slide .carousel-control i:hover{
+    background: #6e1257;
+}
