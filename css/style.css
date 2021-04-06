@@ -1143,6 +1143,7 @@ box-shadow: inset 0px 2px 25px -8px rgba(0,0,0,0.76);
 .contact-parallax-bg {
   background: url("../img/bg/contact-bg.jpg") no-repeat fixed center center / cover;
 }
+
 .contact-title , .contact-subtitle {
   color: #fff;
 }
@@ -1878,4 +1879,10 @@ right: 10px;
 .not-inline{
   display: inline;
   
+}
+
+.top-top{
+  color: white;
+  text-shadow: 0 0 3px black, 0 0 7px #7c1d5c;
+  display: inline;
 }
