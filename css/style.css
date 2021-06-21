@@ -1877,6 +1877,13 @@ right: 10px;
   color: white;
   margin-left: 80px;
 }
+
+.fa-linkedin {
+  background-color: white;
+  color:#023e8a;
+  margin-left: 150px;
+}
+
 .not-inline{
   display: inline;
   
