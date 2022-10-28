@@ -6,4 +6,4 @@
 
 
 
-28/Oct/2022 - Documentation Updated [![HERE]()
+28/Oct/2022 - Documentation Updated ![HERE](https://github.com/GIS-IITBHU/IIT-BHU-HOME/blob/main/IIT%20BHU%20WEB-GIS%20PORTAL%20basic%20tech%20stack%20info.pptx)
